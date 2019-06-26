@@ -7,5 +7,4 @@ conda create -n analise-financeira python=3.7
 pip install requests
 pip install pandas
 pip install bs4
-
-Nas próximas etapas do projeto, vamos adicionar dependências do SKLearn
+pip install scikit_learn
