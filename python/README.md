@@ -24,3 +24,10 @@ Até o momento mapeamos os seguintes indicadores:
 - pip install pandas
 - pip install bs4
 - pip install scikit_learn 
+
+## Análise de APIs para recuperar cotações de ativos:
+
+1. YAHOO Finance: Necessário instalar as dependências: `pip install yahoo-finance` 
+2. YAHOO Finance API: Necessário instalar as dependências: `pip install yahoo_finance_api2`
+3. GOOGLE Finance: Necessário instalar a dependência: `pip install googlefinance.client`
+4. GOOGLE Finance GET: Necessário instalar a dependência (dependente do item 3): `pip install googlefinance.get`
